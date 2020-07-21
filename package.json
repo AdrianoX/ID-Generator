@@ -1,0 +1,8 @@
+{
+  "name": "@adrianox/id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:AdrianoX/ID-Generator.git",
+  "author": "Adrian Kryzinski <adriankryzinski@gmail.com>",
+  "license": "MIT"
+}
