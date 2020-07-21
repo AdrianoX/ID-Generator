@@ -1,5 +1,5 @@
 ```diff
-- # Random ID-Generator
+# Random ID-Generator
 ```
 
 ## Description
