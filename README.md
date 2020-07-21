@@ -3,8 +3,9 @@
 
 
 ## Description
-
-*It's a tiny app for creating a random id key.*
+```diff
+- *It's a tiny app for creating a random id key.*
+```
 
 
 ## Example
@@ -18,7 +19,8 @@ console.log(id); // result: Bhts8Apr9b
 ## Instalation
 
 > npm i @adrianox/id-generator 
-> yarn add @adrianox/id-generator
+
+yarn add @adrianox/id-generator
 
 ## License
 
