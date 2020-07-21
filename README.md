@@ -10,23 +10,23 @@
 
 ## Example
 
-```
-const randomID = require('@adrianox/id-generator');
-const id = randomID(10); // key length = 10 characters
-console.log(id); // result: Bhts8Apr9b
+```diff
++ const randomID = require('@adrianox/id-generator');
++ const id = randomID(10); // key length = 10 characters
++ console.log(id); // result: Bhts8Apr9b
 ```
 
 ## Instalation
-
-> npm i @adrianox/id-generator 
-
-yarn add @adrianox/id-generator
+```diff
+! npm i @adrianox/id-generator 
+! yarn add @adrianox/id-generator
+```
 
 ## License
 
 *MIT*
 
-
+RED APPLE (&#x1F34E;):
 
 
 
