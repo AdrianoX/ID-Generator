@@ -1,12 +1,13 @@
-### (Random) ID-Generator
+```diff
+- # Random ID-Generator
+```
 
-
-# Description
+## Description
 
 *It's a tiny app for creating a random id key.*
 
 
-# Example
+## Example
 
 ```
 const randomID = require('@adrianox/id-generator');
@@ -14,12 +15,12 @@ const id = randomID(10); // key length = 10 characters
 console.log(id); // result: Bhts8Apr9b
 ```
 
-# Instalation
+## Instalation
 
-npm i @adrianox/id-generator
-yarn add @adrianox/id-generator
+npm i @adrianox/id-generator 
+ yarn add @adrianox/id-generator
 
-# License
+## License
 
 *MIT*
 
