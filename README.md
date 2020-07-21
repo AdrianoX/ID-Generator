@@ -26,7 +26,12 @@
 
 *MIT*
 
-(U+1F603); (U+1F603); (U+1F603);
+(U+1F603); (U+1F603); (1F601); (&#x1F499;): (&#x1F499;):
+
+:stuck_out_tongue_winking_eye:
+
+(:stuck_out_tongue_winking_eye:);
+(:stuck_out_tongue_winking_eye:)
 
 
 
