@@ -1,5 +1,5 @@
 
-# Random ID-Generator
+# Random ID-Generator (U+1F609);
 
 
 ## Description
@@ -26,7 +26,7 @@
 
 *MIT*
 
-RED APPLE (&#x1F34E;):
+(U+1F603); (U+1F603); (U+1F603);
 
 
 
