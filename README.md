@@ -1,6 +1,6 @@
-```diff
+
 # Random ID-Generator
-```
+
 
 ## Description
 
@@ -17,8 +17,8 @@ console.log(id); // result: Bhts8Apr9b
 
 ## Instalation
 
-npm i @adrianox/id-generator 
- yarn add @adrianox/id-generator
+> npm i @adrianox/id-generator 
+> yarn add @adrianox/id-generator
 
 ## License
 
