@@ -1,14 +1,14 @@
 
-# Random ID-Generator (U+1F609);
+# Random ID-Generator :smiley:
 
 
-## Description
+## Description :wink:
 ```diff
 - *It's a tiny app for creating a random id key.*
 ```
 
 
-## Example
+## Example :smirk:
 
 ```diff
 + const randomID = require('@adrianox/id-generator');
@@ -16,22 +16,16 @@
 + console.log(id); // result: Bhts8Apr9b
 ```
 
-## Instalation
+## Instalation :computer:
 ```diff
 ! npm i @adrianox/id-generator 
 ! yarn add @adrianox/id-generator
 ```
 
-## License
+## License :newspaper:
 
 *MIT*
 
-(U+1F603); (U+1F603); (1F601); (&#x1F499;): (&#x1F499;):
-
-:stuck_out_tongue_winking_eye:
-
-(:stuck_out_tongue_winking_eye:);
-(:stuck_out_tongue_winking_eye:)
 
 
 
