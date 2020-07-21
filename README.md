@@ -4,7 +4,7 @@
 
 ## Description :wink:
 ```diff
-- *It's a tiny app for creating a random id key.*
+- It's a tiny app for creating a random id key & allows you to use function that generate random string containing all kind of big/small letters or number ; )
 ```
 
 
